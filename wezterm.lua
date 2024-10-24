@@ -67,47 +67,47 @@ return {
 		{
       			key = '1',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(0), -- First tab (index 0)
+      			action = wezterm.action.ActivateTab(0), 
     		},
     		{
       			key = '2',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(1), -- Second tab (index 1)
+      			action = wezterm.action.ActivateTab(1), 
     		},
     		{
       			key = '3',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(2), -- Third tab (index 2)
+      			action = wezterm.action.ActivateTab(2), 
     		},
     		{
       			key = '4',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(3), -- Fourth tab (index 3)
+      			action = wezterm.action.ActivateTab(3), 
     		},
     		{
       			key = '5',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(4), -- Fifth tab (index 4)
+      			action = wezterm.action.ActivateTab(4),
     		},
     		{
       			key = '6',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(5), -- Sixth tab (index 5)
+      			action = wezterm.action.ActivateTab(5),
     		},
     		{
       			key = '7',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(6), -- Seventh tab (index 6)
+      			action = wezterm.action.ActivateTab(6), 
     		},
     		{
       			key = '8',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(7), -- Eighth tab (index 7)
+      			action = wezterm.action.ActivateTab(7), 
     		},
     		{
       			key = '9',
       			mods = 'CTRL',
-      			action = wezterm.action.ActivateTab(8), -- Ninth tab (index 8)
+      			action = wezterm.action.ActivateTab(8), 
     		},
 	},
 
